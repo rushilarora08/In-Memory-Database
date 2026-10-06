@@ -22,5 +22,12 @@ An interactive command-line interface that stores and manipulates key-value data
 - LOAD (`LOAD <filename>`): Loads a database from a file in the directory.
 
 - EXIT (`EXIT`): To exit the command-line interface.
+
+## Limitations
+- No overwrite warning on SAVE
+
+- Only works with single-word keys/values.
+
+  
   
 
