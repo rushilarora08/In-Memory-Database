@@ -6,7 +6,7 @@ An interactive command-line interface that stores and manipulates key-value data
 - libraries: json (no external libraries)
 
 ## How to run?
-'python inmemory_database.py'
+`python inmemory_database.py`
 
 ## Commands:
 - SET (SET <key> <value>): Stores a value under a key.
