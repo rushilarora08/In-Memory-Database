@@ -5,8 +5,6 @@ print("Syntax : <Command> <Key> <Value>")
 while True:
     userinput = input()
     listinput = userinput.split() 
-    '''database[listinput[1]] = listinput[2]
-    print(database)'''
     if len(listinput) == 0:
         print("Invalid Input")
         continue
