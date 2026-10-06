@@ -3,7 +3,7 @@ An interactive command-line interface that stores and manipulates key-value data
 
 ## Requirements: 
 - Python3
-- libraries: json (no external libraries)
+- Libraries: json (no external libraries)
 
 ## How to run?
 `python inmemory_database.py`
@@ -24,7 +24,7 @@ An interactive command-line interface that stores and manipulates key-value data
 - EXIT (`EXIT`): To exit the command-line interface.
 
 ## Limitations
-- No overwrite warning on SAVE
+- No overwrite warning on SAVE.
 
 - Only works with single-word keys/values.
 
